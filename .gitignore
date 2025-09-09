@@ -1,0 +1,5 @@
+botdata.db
+users_export.csv
+__pycache__/
+*.pyc
+.env
